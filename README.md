@@ -7,6 +7,9 @@ Before running make sure you get your own API code: https://openweathermap.org/a
 
 Screenshots: 
 
-![alt text](./screenshot1.png?raw=true)
+<p align="center">
+  <img src="./screenshot1.png" width="350" title="hover text">
+  <img src="./screenshot2.png" width="350" alt="accessibility text">
+</p>
 
-![alt text](./screenshot2.png?raw=true)
+
